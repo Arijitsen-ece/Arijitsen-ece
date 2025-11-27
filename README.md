@@ -1,23 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Arijit Sen</h1>
-<h3 align="center">B.Tech ECE | Embedded Systems & IoT | Frontend Enthusiast</h3>
+<h3 align="center">B.Tech ECE student | Exploring Arduino Uno & Electronics| Frontend Developer | Passionate about Web Development & Modern UI Design</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech student in **Electronics & Communication Engineering**
-- 🔭 Currently working on: **IoT & smart tech projects**
-- 🌱 Learning: **TypeScript, React, and AI basics**
-- 💡 Interested in: **Embedded systems, IoT, and AI-powered apps**
+- 🔭 Currently working on: **Frontend projects with React & TypeScript**
+- 🌱 Learning: **Modern Web Development & Arduino Uno**
+- 💡 Interested in: **Frontend Engineering & Electronics-based mini projects**
 - ⚡ Fun fact: I break things just to fix them better 😉
+
 
 ---
 
 ### 🛠 Tech Stack
 
-<!-- Icons from https://skillicons.dev -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,react,arduino,raspberrypi,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,html,css,react,vite,arduino,php,github,vscode" />
 </p>
 
 ---
