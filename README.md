@@ -1,186 +1,103 @@
-<!-- ========================================================= -->
-<!--                         HEADER                            -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">
-  Hi 👋, I'm Arijit Sen
-</h1>
+<h1 align="center">Hi there 👋, I'm Arijit Sen</h1>
 
 <h3 align="center">
-  ECE Undergraduate • AI/ML • Embedded Systems • Edge AI • Software Development
+B.Tech ECE student | Exploring AI/ML, Embedded Systems, Edge AI & Software Development
 </h3>
 
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech undergraduate in **Electronics & Communication Engineering**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Computer Vision and Edge AI**
+- ⚙️ Building practical solutions across **Embedded Systems, IoT and intelligent hardware-software systems**
+- 💻 Working with **Python, C/C++, React, TypeScript and modern software development tools**
+- 🧠 Strengthening foundations in **Machine Learning, Embedded Systems, Software Engineering and DSA**
+- 🚀 Interested in building **intelligent, scalable and real-world engineering solutions**
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,html,css,react,vite,arduino,fastapi,flask,supabase,php,github,vscode" alt="Tech Stack">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Building+Intelligent+Hardware-Software+Systems;Exploring+AI%2FML+%26+Edge+AI;Developing+AI-Powered+%26+Full-Stack+Applications;Learning%2C+Building+%26+Improving+Every+Day"
-    alt="Typing Animation"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Arijitsen-ece&show_icons=true&theme=radical"
+    alt="Arijit Sen GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Arijitsen-ece&theme=radical"
+    alt="Arijit Sen GitHub Streak"
   />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Arijitsen-ece&theme=onedark&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 **ADVICE-AI** – Advice generator with API fallback & smooth UI
+- 💊 **HealthPulse-AI** – AI-powered healthcare assistant built with TypeScript & React
+- 📊 **DPRES India Portal** – Vite + React + TypeScript portal for DPRES India
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/arijit-sen-188864228">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/arijitsen.official">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/ArijitSenAriji2">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
+  </a>
   <a href="https://github.com/Arijitsen-ece">
-    <img src="https://img.shields.io/badge/GitHub-Arijitsen--ece-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/arijit-sen-188864228/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arijit%20Sen-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://arijit-sen-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-🎓 **B.Tech Electronics & Communication Engineering** undergraduate at **JIS College of Engineering**.
+### ✨ Code. Learn. Build. Improve.
 
-🤖 Interested in **Artificial Intelligence, Machine Learning, Computer Vision, Edge AI, Embedded Systems, IoT, and Software Development**.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+with+AI+%26+Software;Exploring+Embedded+Systems+%26+Edge+AI;Turning+Ideas+into+Engineering+Projects"
+  alt="Typing Animation"
+/>
 
-🛠️ I enjoy building practical systems that combine **AI, software, electronics, and hardware** to solve real-world engineering problems.
+<br><br>
 
-🌱 Currently strengthening my foundations in **AI/ML, Embedded Systems, Edge AI, Software Engineering, and DSA**.
+<p><i>Thanks for visiting my profile — keep learning, keep building. 🚀</i></p>
 
----
+<br>
 
-## 🧠 Areas of Focus
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,100:161B22"
+  alt="Profile Footer"
+/>
 
-<p align="center">
-
-| 🤖 AI / ML | 🔌 Embedded & IoT | 💻 Software |
-|:---:|:---:|:---:|
-| Machine Learning | Embedded C | Python |
-| Deep Learning | Microcontrollers | C / C++ |
-| Computer Vision | Arduino / ESP8266 | React |
-| LLM Applications | Sensors & IoT | TypeScript |
-| Edge AI | Hardware Integration | REST APIs |
-
-</p>
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,kotlin,react,vite,fastapi,flask" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,postgres,supabase,arduino,git,github,vscode,androidstudio" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📄 AI Car Loan Contract Analysis</h3>
-
-<p>
-<b>LLM-Powered Contract Analysis Chatbot</b>
-</p>
-
-<p>
-LLM-powered application for intelligent vehicle loan contract analysis and financial risk assessment using <b>FastAPI</b> and <b>LangChain</b>.
-</p>
-
-<p>
-<b>Stack:</b><br>
-Python • FastAPI • LangChain • LLMs
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏥 HealthVault</h3>
-
-<p>
-<b>AI-Enabled Healthcare Management Platform</b>
-</p>
-
-<p>
-Full-stack healthcare platform built with <b>React</b> and <b>Supabase</b> for secure patient record management and AI-enabled healthcare services.
-</p>
-
-<p>
-<b>Stack:</b><br>
-React • TypeScript • Supabase
-</p>
-
-<p>
-<a href="https://github.com/Arijitsen-ece/healthvault-app">
-🔗 View Repository
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arijitsen-ece&show_icons=true&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Arijitsen-ece&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijitsen-ece&layout=compact&hide_border=true&langs_count=8"
-    height="165"
-  />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/arijit-sen-188864228/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://arijit-sen-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:arijitsenarijitsen58@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>Building at the intersection of intelligence, software and electronics.</i>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer"
-    width="100%"
-  />
-</p>
+</div>
